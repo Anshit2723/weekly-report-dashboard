@@ -1,0 +1,5 @@
+/* Default styles removed to rely on Tailwind/Globals */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
